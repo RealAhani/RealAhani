@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alireza Ahani</h1>
 <h3 align="center">A passionate Game and Software Developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realahani&label=Profile%20views&color=0e75b6&style=flat" alt="realahani" /> </p>
