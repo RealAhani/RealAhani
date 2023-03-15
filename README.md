@@ -12,13 +12,9 @@
 
 - 📄 Know about my experiences [indie game-dev and currently work on a multiplayer-game]
 
-- ⚡ Fun fact **i know ZBrush,Maya,SubstancePainter(character-modeling,Rigging,Texturing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<img id="id-a933fed876dcc854f7eaebfd097a5c38" src="" alt="Substance 3D Painter">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://pixologic.com/" rel="noreferrer">
