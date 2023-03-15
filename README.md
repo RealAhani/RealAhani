@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realahani" alt="realahani" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal-engine,QT**
+- 🌱 I’m currently learning **QT**
 
 - 💬 Ask me about **C++,Cmake,Unreal-Engine,SDL,SFML,OpenGL,Zbrush,Maya,SubstancePainter,Rigging**
 
 - 📫 How to reach me **AlirezaWrokingOnIt@gmail.com**
 
-- 📄 Know about my experiences [indie game-dev and currently work on a multiplayer-game](indie game-dev and currently work on a multiplayer-game)
+- 📄 Know about my experiences [indie game-dev and currently work on a multiplayer-game]
 
 - ⚡ Fun fact **i know ZBrush,Maya,SubstancePainter(character-modeling,Rigging,Texturing)**
 
