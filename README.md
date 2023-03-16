@@ -21,7 +21,7 @@
 <img src="https://pixologic.com/zclassroom/upload/product/icon-zbrush2019.png" alt="ZBrush" width="40" height="40"/> </a>
  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" rel="noreferrer">
 <img class="dhig-h-8" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png" alt="Maya" alt="Maya" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/substance3d-painter.html" rel="noreferrer">
-<img src="	https://www.adobe.com/content/dam/cc/icons/pt_appicon_64.svg" alt="painter" width="40" height="40" /> </a> </p>
+<img src="https://www.adobe.com/content/dam/cc/icons/ds_appicon_64.svg" alt="painter" width="40" height="40" /> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realahani&show_icons=true&locale=en&layout=compact" alt="realahani" /></p>
 
