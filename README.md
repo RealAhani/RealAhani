@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realahani" alt="realahani" /></a> </p>
 
-- 🌱 I’m currently learning **QT**
+- 🌱 I’m currently learning **Modern C++ nad  ASP Core**
 
 - 💬 Ask me about **C++,Cmake,Unreal-Engine,SDL,SFML,OpenGL,Zbrush,Maya,SubstancePainter,Rigging**
 
