@@ -1,17 +1,10 @@
-<h3 align="center">A passionate Game and Software Developer from Iran</h3>
+<h3 align="center">A passionate  Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realahani&label=Profile%20views&color=0e75b6&style=flat" alt="realahani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realahani" alt="realahani" /></a> </p>
 
-- 🌱 I’m currently learning **Modern C++ and  python **
-
-- 💬 Ask me about **C++,python,Cmake,Unreal-Engine,Rigging,Maya,Zbrush,SubstancePainter**
-
 - 📫 How to reach me **AlirezaWrokingOnIt@gmail.com**
-
-- 📄 Know about my experiences [indie game-dev and currently work on a multiplayer-game]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
